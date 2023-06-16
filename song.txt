@@ -2,4 +2,4 @@ sword and spear
 wall of shields
 you are nearing 
 you are nearing your end
-feature
+feature 2
